@@ -1,5 +1,5 @@
 {
-  "name": "shift31/laravel-elasticsearch",
+  "name": "saltermitchell/laravel-elasticsearch",
   "description": "A Laravel Service Provider for the Elasticsearch API client",
   "authors": [
     {
